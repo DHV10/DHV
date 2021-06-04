@@ -27,7 +27,7 @@ struct SettingRowView: View {
                 
                 }
                 else {
-                    EmptyView()
+                     EmptyView()
                 }
             }
         }
